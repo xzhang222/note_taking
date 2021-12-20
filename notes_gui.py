@@ -53,11 +53,11 @@ class MyGUI:
 
 		x += self.size.w + dx
 		add_p = Label(self.mw, (x,y), '+', self.add_page)
-		self.mw.add(add_page)
+		self.mw.add(add_p)
 
 		x += add_p.w + dx
 		remove_p = Label(self.mw, (x,y), '-', self.remove_page)
-		self.mw.add(remove_page)
+		self.mw.add(remove_p)
 
 		x += remove_p.w + dx
 		back = Label(self.mw, (x,y), '<', self.previous_page)
