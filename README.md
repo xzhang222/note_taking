@@ -5,4 +5,6 @@ Usage: download all four python script files, double click notes.py to start the
 
 Handwritten notes are automatically saved upon closing the program. Use pdf button to export the notes in pdf format.
 
+Click eraser repeatedly to toggle between yellow and gray. Yellow: erase by points; gray: erase by strokes.
+
 Press escape key to quit the program.
